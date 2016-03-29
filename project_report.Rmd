@@ -11,7 +11,7 @@ output:
 library(ggplot2)
 library(caret)
 library(randomForest)
-setwd("~/PracticalMachineLearning")
+setwd("~/coursera/PracticalMachineLearning")
 load("project.Rdata")
 ```
 
